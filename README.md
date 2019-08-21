@@ -7,14 +7,6 @@ A simple demo to try out the kubernetes (K8s) locally
 ## Scenario of this demo
 We have a micro service application running on Docker, we want to deploy the application on Kubenetes cluster.
 
-The following steps need to be carried out:
-* Create docker image for the app locally
-* Create a cluster
-* Deploy the app
-* Explore the app
-* Expose the app publicly
-* Scale the app
-
 ## Technologies
 * Java 11
 * Spring Boot 2
